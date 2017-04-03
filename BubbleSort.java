@@ -1,3 +1,4 @@
+/*
 时间复杂度	 O(n^{2})
 最优时间复杂度	 O(n)
 平均时间复杂度	 O(n^{2})
@@ -13,3 +14,4 @@ function bubble_sort (array, length) {
         }
     }
 }
+*/

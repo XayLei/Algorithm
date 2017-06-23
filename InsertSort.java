@@ -1,4 +1,6 @@
 /*插入排序就类似于玩牌时的理牌阶段，将小的牌一个一个的插入到大牌的前面
+
+插入排序就是将待排序元素插入到前面已排好序的序列当中
 */
 public class InsertSort{
    public static void insertSort(int[] arr){
